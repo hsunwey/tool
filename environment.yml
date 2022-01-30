@@ -1,0 +1,8 @@
+name: utils
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - ebooklib
+  - jupyterlab
